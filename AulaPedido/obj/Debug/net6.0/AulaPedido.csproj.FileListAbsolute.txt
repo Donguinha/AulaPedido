@@ -1,0 +1,15 @@
+C:\code\AulaPedido\AulaPedido\bin\Debug\net6.0\AulaPedido.exe
+C:\code\AulaPedido\AulaPedido\bin\Debug\net6.0\AulaPedido.deps.json
+C:\code\AulaPedido\AulaPedido\bin\Debug\net6.0\AulaPedido.runtimeconfig.json
+C:\code\AulaPedido\AulaPedido\bin\Debug\net6.0\AulaPedido.dll
+C:\code\AulaPedido\AulaPedido\bin\Debug\net6.0\AulaPedido.pdb
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.csproj.AssemblyReference.cache
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.AssemblyInfoInputs.cache
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.AssemblyInfo.cs
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.csproj.CoreCompileInputs.cache
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.dll
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\refint\AulaPedido.dll
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.pdb
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\AulaPedido.genruntimeconfig.cache
+C:\code\AulaPedido\AulaPedido\obj\Debug\net6.0\ref\AulaPedido.dll
